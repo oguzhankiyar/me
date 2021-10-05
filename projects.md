@@ -1,5 +1,20 @@
 ### PROJECTS
 
+#### Messaging Hub
+I developed the project when I was working at XYZ Technology as Senior Software Developer. We were two developers, I was lead developer and my teammate was senior developer for this project. We were responsible to research, analyze, design, develop the project from scratch.
+
+✔️ Includes UI, API and service applications
+<br />
+✔️ Responsible to design architecture all ecosystem
+<br />
+✔️ Managing channels, bots, users, clients, chats, messages, labels, actions
+<br />
+✔️ Integrating with IBM Watson to achieve bot messaging
+<br />
+✔️ Integrating with WhatsApp and extensible for other messaging channels
+<br />
+✔️ C#, .NET Core, Kafka, MessagePack, Redis, OAuth2, Websockets, PostgreSql, MongoDB, Angular, DevExtreme, WhatsApp, IBM Watson
+
 #### Risk Management
 I developed the project when I was working at XYZ Technology as Senior Software Developer. I was responsible to research, analyze, design, develop the project from scratch. Also now, I am responsible to develop new features and maintain existing features.
 

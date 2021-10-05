@@ -1,6 +1,13 @@
 ### EXPERIENCE
 
-#### Senior Software Developer @ XYZ Technology (03.2020 - ......)
+#### Senior Software Engineer @ Getir (07.2021 - ......)
+✔️ Working with an agile team that contains lead, developers and product manager
+<br />
+✔️ Responsible to redesign and re-platform promotion services using Go
+<br />
+✔️ Go, MongoDB, RabbitMQ, GIT, Microservices, DDD
+
+#### Senior Software Developer @ XYZ Technology (03.2020 - 06.2021)
 ✔️ Working with an agile team that contains developer, test and devops engineers
 <br />
 ✔️ Research, analyze, design, develop new generation trading applications by following best practices, approaches, patterns, principles

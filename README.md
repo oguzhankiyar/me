@@ -1,10 +1,10 @@
 # OĞUZHAN KİYAR
 
-⚡ Works as Senior Software Developer
+⚡ Works as Senior Software Engineer
 <br />
-⚡ Mostly uses C#, Javascript and interested in Go, DevOps
+⚡ Mostly uses Go, C#, JavaScript and interested in Cloud, DevOps
 <br />
-⚡ Enjoys solving problems, improving solutions, designing architectures and reading, reviewing, refactoring codes
+⚡ Enjoys solving problems, designing architectures and reviewing, refactoring codes
 <br />
 ⚡ Cares about architectures, patterns, algorithms
 
@@ -75,7 +75,14 @@ I enjoy solving problems, improving solutions, designing architectures, seeing o
 
 ### <a href="experience.md">EXPERIENCE</a>
 
-#### Senior Software Developer @ XYZ Technology (03.2020 - ......)
+#### Senior Software Engineer @ Getir (07.2021 - ......)
+✔️ Working with an agile team that contains lead, developers and product manager
+<br />
+✔️ Responsible to redesign and re-platform promotion services using Go
+<br />
+✔️ Go, MongoDB, RabbitMQ, GIT, Microservices, DDD
+
+#### Senior Software Developer @ XYZ Technology (03.2020 - 06.2021)
 ✔️ Working with an agile team that contains developer, test and devops engineers
 <br />
 ✔️ Research, analyze, design, develop new generation trading applications by following best practices, approaches, patterns, principles
@@ -157,6 +164,21 @@ mobile application development and developing bus, flight booking app called Bil
 Development, MSSQL, SignalR
 
 ### <a href="projects.md">PROJECTS</a>
+
+#### Messaging Hub
+I developed the project when I was working at XYZ Technology as Senior Software Developer. We were two developers, I was lead developer and my teammate was senior developer for this project. We were responsible to research, analyze, design, develop the project from scratch.
+
+✔️ Includes UI, API and service applications
+<br />
+✔️ Responsible to design architecture all ecosystem
+<br />
+✔️ Managing channels, bots, users, clients, chats, messages, labels, actions
+<br />
+✔️ Integrating with IBM Watson to achieve bot messaging
+<br />
+✔️ Integrating with WhatsApp and extensible for other messaging channels
+<br />
+✔️ C#, .NET Core, Kafka, MessagePack, Redis, OAuth2, Websockets, PostgreSql, MongoDB, Angular, DevExtreme, WhatsApp, IBM Watson
 
 #### Risk Management
 I developed the project when I was working at XYZ Technology as Senior Software Developer. I was responsible to research, analyze, design, develop the project from scratch. Also now, I am responsible to develop new features and maintain existing features.
